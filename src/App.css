@@ -31,3 +31,8 @@ h1 {
   background-color: blue;
   color: white;
 }
+@media only screen and (max-width: 600px) {
+  .addItems {
+    display: block;
+  }
+}
