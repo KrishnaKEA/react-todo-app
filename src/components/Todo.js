@@ -41,7 +41,7 @@ const Todo = () => {
     <>
       <div className="main-div">
         <br />
-        <h3>Todo app using react hooks(useState and useEffect)  and localStorage</h3>
+        <h3>Todo app using react hooks(useState and useEffect)  plus- localStorage</h3>
         <hr />
         <div className="child-div">
           <figure>
